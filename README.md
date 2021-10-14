@@ -1,4 +1,4 @@
-# Webpack Starter
+# Calendario QA
 
 Este es el proyecto inicial para crear aplicaciones utilizando webpack.
 
